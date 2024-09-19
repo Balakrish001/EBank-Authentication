@@ -170,6 +170,3 @@ Returns a response based on the credentials provided
 
 </details>
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory
